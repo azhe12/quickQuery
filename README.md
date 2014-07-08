@@ -7,6 +7,10 @@
 
 site形如: `https://www.google.com.hk/search?q=site:stackoverflow.com%20query`
 
+
+url中`query`即为要搜索的答案.
+
+
 ## Usage
 
 ```
